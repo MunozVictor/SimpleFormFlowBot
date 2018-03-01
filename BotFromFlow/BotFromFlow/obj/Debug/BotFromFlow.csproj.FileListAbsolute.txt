@@ -1,0 +1,41 @@
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Bot Application.dll.config
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Bot Application.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Bot Application.pdb
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Autofac.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Chronic.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.Bot.Builder.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.Bot.Connector.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.Net.Http.Formatting.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.Web.Http.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.Web.Http.WebHost.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Autofac.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.Bot.Builder.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.Bot.Connector.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.Net.Http.Formatting.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.Web.Http.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\System.Web.Http.WebHost.xml
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\obj\Debug\BotFromFlow.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\obj\Debug\BotFromFlow.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\obj\Debug\Bot Application.dll
+C:\Users\usuario\Desktop\BOT\bots_net\BotFromFlow\BotFromFlow\obj\Debug\Bot Application.pdb
